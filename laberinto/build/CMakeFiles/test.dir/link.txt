@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/test.dir/test/test.cpp.o CMakeFiles/test.dir/src/maze.cpp.o -o test 
